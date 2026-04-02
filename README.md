@@ -169,17 +169,13 @@ Monitoring Dashboard / Mobile App
 
 ## 📚 Research References
 
-- International Labour Organization (ILO) – Workplace Safety  
-- World Health Organization (WHO) – Occupational Health  
-- IEEE Research on IoT Smart Helmets  
-- NIOSH Mining Safety Research  
-
+"Apne hisab se daal lo"
 ---
 
 ## 👥 Team
 
 - **Team Leader:** Anshita Goyal  
-- **Members:** Piyush Bhatt, Harshit Lakhera, Prahlad Dobhal  
+- **Members:**
 - **College:** Graphic Era Hill University, Dehradun  
 
 ---
